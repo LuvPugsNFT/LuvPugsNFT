@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa5D8D022bEa0f8834c8956d7B9c6C1E0207cf132",
+  "SCAN_LINK": "https://ftmscan.com/address/0xa5D8D022bEa0f8834c8956d7B9c6C1E0207cf132",
+  "NETWORK": {
+    "NAME": "Fantom",
+    "SYMBOL": "FTM",
+    "ID": 250
+  },
+  "NFT_NAME": "Luv Pugs",
+  "SYMBOL": "Pugs",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 15000000000000000000,
+  "DISPLAY_COST": 15,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Paintswap",
+  "MARKETPLACE_LINK": "https://paintswap.finance/marketplace/",
+  "SHOW_BACKGROUND": true
+}
